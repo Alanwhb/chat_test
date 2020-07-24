@@ -1,0 +1,25 @@
+.row {
+    text-align: center;
+}
+
+ul {
+    font-size: xx-large;
+}
+
+.chat-window {
+    border: black solid 5px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.member-list {
+    border: black solid 4px;
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.message {
+    width: -webkit-fill-available;
+}
